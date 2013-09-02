@@ -1,0 +1,161 @@
+
+The DZone Weekly: May 29, 2013
+
+Welcome to the DZone weekly newsletter! We've collected the week's top articles and features for your convenience -- explore the links below to check them out. Interested in publishing on DZone? Get started posting a new article: http://architects.dzone.com/node/add/article
+
+
+# Dev of the Week: John Sonmez
+
+This week we caught up with John Sonmez, a software developer and author for Pluralsight. He is also the founder of the new Get Up and CODE! podcast for technologists and fitness enthusiasts:
+
+"The world of programming and software development can seem intimidating. So many different technologies, so much to learn, but don't worry. You don't have to know it all and the more you learn, the more you will realize that everything is just a variation of a few core things. "
+
+Read more »
+http://java.dzone.com/articles/dev-week-john-sonmez
+
+
+# Weekly Features
+
+
+» Algorithm of the Week: Homomorphic Hashing
+http://java.dzone.com/articles/algorithm-week-homomorphic
+
+
+# This Week's Top Articles
+
+Javalobby
+
+Writing Clean Predicates with Java 8 - Kevin Chabot 
+In-line predicates can create a maintenance NIGHTMARE! But writing in-line lambda expressions and using the stream interfaces to perform common operations on collections can be awesome.
+http://java.dzone.com/articles/writing-clean-predicates-java
+
+Why 'static' is Bad and How to Avoid It - Jens Schauder
+http://java.dzone.com/articles/why-static-bad-and-how-avoid
+
+Comparing JARs with Groovy - Dustin Marx
+http://java.dzone.com/articles/comparing-jars-groovy
+
+
+Agile Zone
+
+Agile Planning Tools - George Dinwiddie  
+One of the most frequently asked questions on public mailing lists and forums devoted to Agile development is “What Agile Planning Tool should we use?” There is always a chorus of answers touting this or that computerized tool, usually without asking any questions about the context. Is there one best tool? 
+http://agile.dzone.com/articles/agile-planning-tools
+
+Use Feature Teams. Yes, Use Component Teams - Andrew Fuqua
+http://agile.dzone.com/articles/use-feature-teams-yes-use
+
+Spreading TDD Throughout Your Company - Rob Galanakis
+http://agile.dzone.com/articles/spreading-tdd-throughout-your
+
+
+Big Data/BI Zone
+
+JBatch Overview - Reza Rahman
+It seems batch processing is moving more and more into the realm of the Java developer. This is why JBatch (aka Java Batch, JSR 352, Batch Applications for the Java Platform) created and added to Java EE 7. This tutorial will give you a good understanding of how it works.
+http://architects.dzone.com/articles/jbatch-overview
+
+Big Data on-Demand with Apache Whirr - Mark Hinkle
+http://architects.dzone.com/articles/big-data-demand-apache-whirr
+
+Shaping Matching Experiments - Giuseppe Vettigli
+http://architects.dzone.com/articles/shaping-matching-experiments
+
+
+Cloud Zone
+
+On Security in the AWS Cloud - Eric Genesky 
+Steve Riley's presentation on cloud security and the security features of AWS is still as enlightening as it was in 2010 when he first presented these concerns. 
+http://cloud.dzone.com/articles/security-aws-cloud
+
+8 Tips to Keep Your Cloud Solution from Bleeding Money - Ming Lee
+http://cloud.dzone.com/articles/8-tips-keep-your-cloud
+
+Run Nexus OSS 2.0.1 on Amazon EC2 - Tim O'Brien
+http://cloud.dzone.com/articles/run-nexus-oss-201-amazon-ec2
+
+
+DevOps Zone
+
+Make Your Local Server Public and Access it Anywhere With Localtunnel - Sunil Gulabani 
+Setting up SSH remote forwarding or reverse tunneling can be a huge hassle. You have to use a magical set of options with SSH along with a public server you have SSH access to, and then set up a tunnel from that machine to your local machine. What if there were a way to do this with one line of CLI code?
+http://java.dzone.com/articles/make-your-local-server-public
+
+Puppet Provisioning with Docker - James Carr
+http://architects.dzone.com/articles/puppet-provisioning-docker
+
+Why and How I Left Windows (Completely) for Linux - Baptiste Wicht
+http://architects.dzone.com/articles/why-and-how-i-left-windows
+
+
+Enterprise Integration Zone
+
+Charlie and the X-ray Factory: ZeroMQ at ESRF and CERN - Max Katz 
+The experiments at ESRF and CERN are entirely different but the two control systems follow a similar pattern. These two control systems are being rewritten to take advantage of state-of-the-art technology in messaging, namely ZeroMQ.
+http://architects.dzone.com/articles/charlie-and-x-ray-factory
+
+MQTT Over WebSocket Transport Coming to ActiveMQ 5.9 - Dejan Bosanac
+http://architects.dzone.com/articles/mqtt-over-websocket-transport
+
+The Basics of Signal Handling - Kristina Chodorow
+http://java.dzone.com/articles/basics-signal-handling
+
+
+HTML5 Zone
+
+Making HTML Dropdowns Not Suck - Catalin Red 
+Customizing form elements is always pretty frustrating and the select element is one of those elements that can make you want to pull your remaining hair out. This article will show you how to customize the look of a native HTML dropdown select using some cutting edge techniques that won't make coding suck so bad.
+http://css.dzone.com/articles/making-html-dropdowns-not-suck
+
+Microformats2 & HTML5: The Next Evolutionary Step For Web Data - Allen Coin
+http://css.dzone.com/articles/microformats2-html5-next
+
+Radically Faster Web Development -- Meteor After One Year - Allen Coin
+http://css.dzone.com/articles/radically-faster-web
+
+
+Mobile Zone
+
+The Launch of Firefox OS – My Thoughts and Some History - Robert Nyman 
+It all started about two years ago. I had recently joined Mozilla, and about one or two months in, a wiki page surfaced. It was called Boot 2 Gecko. Last week, B2G, now Firefox OS, released its first devices.
+http://mobile.dzone.com/articles/launch-firefox-os-%E2%80%93-my
+
+Google's Design Team Showcases a Collection of Beautiful Apps - Juhani Lehtimaki
+http://java.dzone.com/articles/googles-design-team-showcases
+
+Get Started with OpenROV - Eric Gregory
+http://architects.dzone.com/articles/get-started-openrov
+
+
+NoSQL Zone
+
+6 Reasons to Avoid Amazon DynamoDB if You're a Ruby Developer - Eric Genesky 
+One user has claimed that Amazon's NoSQL service, DynamoDB, is filled with holes for the ruby client to fall into. He reveals six problems, and I suggest that this may be an opportunity for a similar service out there to provide a better user experience for ruby devs.
+http://cloud.dzone.com/articles/six-reasons-avoid-amazon
+
+NoSQL Databases: Why, What, and When - Eric Genesky
+http://architects.dzone.com/articles/nosql-databases-why-what-and
+
+Martin Fowler: NoSQL Distilled to an Hour - Martin Fowler
+http://architects.dzone.com/articles/martin-fowler-nosql-distilled
+
+
+Performance Zone
+
+Garbage Collection in Java (Part 2) - Richard Warburton 
+Today we cover how Parallel GC works in Java. Specifically, we'll look at the combination of running a Parallel Scavenge collector over Eden and we'll examine the Parallel Mark and Sweep collector over the Tenured generation.
+http://java.dzone.com/articles/garbage-collection-java-part-2
+
+Node.JS: The Good Parts? A Skeptic's View - Mitch Pronschinske
+http://css.dzone.com/articles/nodejs-good-parts-skeptics
+
+Velocity 2013: 20 Tips to Improve Application Speed - Leigh Shevchik
+http://css.dzone.com/articles/velocity-2013-20-tips-improve
+
+
+FEEDBACK
+Please send us your thoughts about how we can improve the DZone Weekly and suggest topics you'd like to read about.
+feedback@dzone.com
+
+DZone is now hiring UI/UX Designers, Sales, and more... 
+Visit our Careers Page at http://www.dzone.com/corporate/careers
